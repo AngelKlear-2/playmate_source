@@ -1,0 +1,170 @@
+{
+  "playmate_counting": {
+    "sounds": [
+      {
+        "name": "knock_knock:playmate_counting",
+        "stream": false
+      }
+    ]
+  },
+  "playmate_seeking": {
+    "sounds": [
+      {
+        "name": "knock_knock:playmate_seeking",
+        "stream": false
+      }
+    ]
+  },
+  "playmate_hiding": {
+    "sounds": [
+      {
+        "name": "knock_knock:playmate_hiding",
+        "stream": false
+      }
+    ]
+  },
+  "game_over": {
+    "sounds": [
+      {
+        "name": "knock_knock:game_over",
+        "stream": false
+      }
+    ]
+  },
+  "loose": {
+    "sounds": [
+      {
+        "name": "knock_knock:you_loose",
+        "stream": false
+      }
+    ]
+  },
+  "win": {
+    "sounds": [
+      {
+        "name": "knock_knock:you_win",
+        "stream": false
+      }
+    ]
+  },
+  "lets_play_again": {
+    "sounds": [
+      {
+        "name": "knock_knock:that_was_fun",
+        "stream": false
+      }
+    ]
+  },
+  "laugh_01": {
+    "sounds": [
+      {
+        "name": "knock_knock:laugh_01",
+        "stream": false
+      }
+    ]
+  },
+  "laugh_02": {
+    "sounds": [
+      {
+        "name": "knock_knock:laugh_02",
+        "stream": false
+      }
+    ]
+  },
+  "laugh_03": {
+    "sounds": [
+      {
+        "name": "knock_knock:laugh_03",
+        "stream": false
+      }
+    ]
+  },
+  "laugh_04": {
+    "sounds": [
+      {
+        "name": "knock_knock:laugh_04",
+        "stream": false
+      }
+    ]
+  },
+  "yourhouseisonfire": {
+    "sounds": [
+      {
+        "name": "knock_knock:your_house_is_on_fire",
+        "stream": false
+      }
+    ]
+  },
+  "player_spotted": {
+    "sounds": [
+      {
+        "name": "knock_knock:player_spotted",
+        "stream": false
+      }
+    ]
+  },
+  "youseeking": {
+    "sounds": [
+      {
+        "name": "knock_knock:seeking",
+        "stream": false
+      }
+    ]
+  },
+  "game_ost": {
+    "sounds": [
+      {
+        "name": "knock_knock:game_ost",
+        "stream": false
+      }
+    ]
+  },
+  "hide": {
+    "sounds": [
+      {
+        "name": "knock_knock:hide",
+        "stream": false
+      }
+    ]
+  },
+  "time_is_up": {
+    "sounds": [
+      {
+        "name": "knock_knock:times_up",
+        "stream": false
+      }
+    ]
+  },
+  "game_ost1": {
+    "sounds": [
+      {
+        "name": "knock_knock:game_ost1",
+        "stream": false
+      }
+    ]
+  },
+  "chase": {
+    "sounds": [
+      {
+        "name": "knock_knock:chase_playmate",
+        "stream": false
+      }
+    ]
+  },
+  "screamer": {
+    "sounds": [
+      {
+        "name": "knock_knock:screamer",
+        "stream": false
+      }
+    ]
+  },
+  "on_fire": {
+    "sounds": [
+      {
+        "name": "knock_knock:your_house_is_on_fire",
+        "stream": false
+      }
+    ]
+  }
+}
